@@ -25,7 +25,7 @@ function Hero() {
               <a
                 href="https://raydium.io/"
                 target="_blank"
-                className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
+                className="  btn-main  font-bold text-sm sm:text-xl rounded-xl px-12 py-2"
               >
                 Trade
               </a>
