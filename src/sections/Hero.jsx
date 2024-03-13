@@ -12,11 +12,11 @@ function Hero() {
           It is the icy addition to the Solana meme coin ecosystem.. Babypengiun is inspired by the adorable antics of baby penguins, those lovable creatures that just can't get enough of seafood and waddling around on the ice.
           </p>
           <a
-            href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1"
+            href="https://solscan.io/token/Bz5y2yn9zmZjspZUowcEavBULDZbfHvjFhaEWQUf8Krb"
             target="_BLANK"
             className="max-w-3xl  text-[#000000] font-medium text-base  sm:text-xl mx-auto my-2"
           >
-            Contract : HRYoknjrwqB7HBCGoMC7CJnMWvYPadsMFQk7i5HBTzNW
+            Contract : Bz5y2yn9zmZjspZUowcEavBULDZbfHvjFhaEWQUf8Krb
           </a>
           <div className=" hidden   sm:flex  justify-start items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
