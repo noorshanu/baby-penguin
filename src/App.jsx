@@ -1,7 +1,7 @@
 import Navbar from "components/Navbar";
 
 import BelowMark from "sections/BelowMark";
-
+import About from "sections/About";
 import Hero from "sections/Hero";
 import JoinCommunity from "sections/JoinCommunity";
 import NFTs from "sections/NFTs";
@@ -30,9 +30,9 @@ function App() {
           </div> */}
         </div>
 
-        {/* <div className="" id="about">
+        <div className="" id="about">
           <About />
-        </div> */}
+        </div>
 
         {/* <div className=" mt-3">
           <NFTs />
