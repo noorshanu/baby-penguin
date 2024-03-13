@@ -6,7 +6,7 @@ function Hero() {
         <div className="  mt-4 sm:mt-8 w-full">
           <h1 className=" text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl ">
             {" "}
-            Welcome BabyPanda: The cutest BabyPanda on Solana!{" "}
+            Welcome BabyPenguin The cutest BabyPenguin on Solana!{" "}
           </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl ">
          BabyPenguin is the coolest gang on Solana! It is all about energy,
@@ -31,12 +31,12 @@ function Hero() {
               </a>
             </div>
             <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/babypandao" target="_blank" className=" text-4xl">
+             <a href="https://t.me/BabyPenguino" target="_blank" className=" text-4xl">
              <FaTelegram />
              </a>
          
 
-             <a href="https://twitter.com/babypandaoff" target="_blank">
+             <a href="https://twitter.com/BabyPenguinoff" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
