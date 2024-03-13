@@ -34,7 +34,7 @@ function Hero() {
              </a>
          
 
-             <a href="https://twitter.com/BabyPenguinoff" target="_blank">
+             <a href="https://twitter.com/babyy_penguin" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
