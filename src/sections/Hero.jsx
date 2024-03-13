@@ -6,12 +6,10 @@ function Hero() {
         <div className="  mt-4 sm:mt-8 w-full">
           <h1 className=" text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl ">
             {" "}
-            Welcome BabyPenguin The cutest BabyPenguin on Solana!{" "}
+            BabyPengiun: Chubby, Funny, and Seafood-Loving Pengiun with Big Dreams!
           </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl ">
-         BabyPenguin is the coolest gang on Solana! It is all about energy,
-            style, and fun in the crypto jungle. Get ready for wild adventures
-            with our NFTs, gaming, and daily dose of cute memes!
+          It is the icy addition to the Solana meme coin ecosystem.. Babypengiun is inspired by the adorable antics of baby penguins, those lovable creatures that just can't get enough of seafood and waddling around on the ice.
           </p>
           <a
             href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1"

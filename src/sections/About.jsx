@@ -15,8 +15,15 @@ function About() {
             <h1 className="text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  ">ABOUT</h1>
 
 
-            <p className="max-w-5xl  text-[#000000] text-xl py-4">
-            In the vibrant universe of memes, a new hero emerges: Shreke, the digital ogre. Born from the fusion of the beloved swamp dweller, and Pepe, the iconic internet frog, Shreke symbolizes the playful heart of internet culture and the daring spirit of cryptocurrency.
+            <p className="max-w-5xl  text-[#000000] text-xl py-2">
+            It is a community-driven project aimed at bringing warmth and liquidity to Solana. The focus is on spreading joy and positivity through winter-themed memes
+            </p>
+            <p className="max-w-5xl  text-[#000000] text-xl py-2 font-bold">
+            What coming next? Unique activities 
+            </p>
+
+            <p className="max-w-5xl  text-[#000000] text-xl py-2">
+            BabyPengiun Symbolizes fun, friendship, and financial opportunity. Users can participate in a range of activities within our vibrant community including trading on exchanges, participating in liquidity pools, or spreading joy and positivity through winter-themed meme
             </p>
 
             <div className=" relative my-4">
