@@ -31,7 +31,7 @@ function Navbar() {
           >
           
           <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/babypandao" target="_blank" className=" text-4xl">
+             <a href="https://t.me/babypengiun" target="_blank" className=" text-4xl">
              <FaTelegram />
              </a>
          
